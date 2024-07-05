@@ -1,0 +1,7 @@
+{
+  "name": "App-RickAdnMorty",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
